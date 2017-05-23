@@ -6,9 +6,9 @@
 
 int main()
 {
+	int i = 0;
+	sdsdss
     return 0;
-	//sdsdas
-	// jhjgh
 
 }
 
